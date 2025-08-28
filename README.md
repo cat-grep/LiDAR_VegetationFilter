@@ -80,3 +80,10 @@ conda install -c conda-forge pdal python-pdal laszip
 ## Resources
 * [WILCO LiDAR, Contour, and Orthoimagery Request](https://wilcomaps.wilco.org/vertigisstudio/web/?app=890fe4cc2634486ba1cd03a552c54aab)  
 * [City Limits - Round Rock](https://geohub.roundrocktexas.gov/datasets/CORR::city-limits-round-rock-1/about)
+
+## Contact
+**Eugenie Huang**  
+Summer 2025 Intern | Geospatial Services | Information Technology | City of Round Rock, TX  
+Master’s Student in Cartography & Geographic Information Systems  
+University of Wisconsin–Madison  
+huang674@wisc.edu  
