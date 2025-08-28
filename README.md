@@ -76,3 +76,7 @@ If you see PDAL errors like “LASzip not enabled”, reinstall PDAL with LAZ su
 ```
 conda install -c conda-forge pdal python-pdal laszip
 ```
+
+## Resources
+[WILCO LiDAR, Contour, and Orthoimagery Request](https://wilcomaps.wilco.org/vertigisstudio/web/?app=890fe4cc2634486ba1cd03a552c54aab)
+[City Limits - Round Rock](https://geohub.roundrocktexas.gov/datasets/CORR::city-limits-round-rock-1/about)
